@@ -126,3 +126,13 @@ Boiler room automation systems, telemetry, supervisory control.
 >- **Core library:** [Youtube Data Scraper Java Library](https://github.com/alexshavlovsky/youtube-scraper.git).
 >- **Service:** [Youtube Scraper SpringBoot Web App](https://github.com/alexshavlovsky/yts-service.git).
 >- **Client:** [Youtube Scraper Web App Angular Client](https://github.com/alexshavlovsky/yts-client.git).
+
+---
+<br>
+
+## 2021 - 2024 - Bloody Enterprise
+
+>**Tech stack:**  
+>- _Java/Kotlin, SpringBoot, Tomcat/Webflux, Gradle, PostgreSQL, Minio, Kafka, MongoDB, Redis_  
+>- _OpenAPI, DDD, Clean Architecture, Swagger Codegen, Hibernate, Liquibase, JAXB/XML/XSD, BouncyCastle, PKCS7, OpenFeign, Mapstruct, Shedlock, OAuth2, Resilience4j, Test Containers_  
+>- _Kubernetes, Mesos/Marathon, Jenkins, Ansible, ELK, Grafana, Prometheus, Keycloak, Spring Cloud Gateway, Config Server_  
